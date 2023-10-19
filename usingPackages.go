@@ -4,7 +4,7 @@ import "fmt"
 
 var score = 99.5
 
-func main() {
+func usingPackages() {
 
 	sayHello("mario")
 
