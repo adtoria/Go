@@ -4,7 +4,7 @@ package main
 import "fmt"
 
 // main() is the entry point of the application
-func strings() {
+func usingStrings() {
 	age := 35
 	name := "shaun"
 
